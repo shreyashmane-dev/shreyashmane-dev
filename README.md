@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a CSE first-year student focused on building practical web and mobile applications.<br>I work primarily with HTML, CSS, JavaScript, and Firebase, and I convert web projects into Android apps using Capacitor.<br>I’m currently improving my fundamentals, writing cleaner code, and building real-world projects like an expense tracker and utility apps.<br>I’m interested in learning by building, contributing to student communities, and growing as a developer through consistent practice.<br>
+I’m a CSE first-year student focused on building practical web and mobile applications.<br>I work primarily with HTML, CSS, JavaScript, and Firebase, and I convert web projects into Android apps using Capacitor.<br>I’m currently improving my fundamentals, writing cleaner code, and building real-world projects like an expense tracker and utility apps.<br>I actively build and iterate on small web and Android apps, sharing my progress publicaly and improving through feedback.<br>
 
 
 ## 🌐 Socials:
