@@ -10,9 +10,7 @@
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=⚡+Building+Real+World+Projects;🔥+Firebase+%2B+Web+Apps+Developer;📱+Capacitor+Android+Apps;🚀+Always+Learning+New+Tech;💻+Turning+Ideas+Into+Reality"/>
+<<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=INITIATING+COGNITIVE+SYNC...;BUILDING+REAL+WORLD+DOMAINS;FIREBASE+MASTER+INITIALIZED;ACCESSING+THE+MAINFRAME..."/>
 
 </div>
 
