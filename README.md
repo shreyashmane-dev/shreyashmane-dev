@@ -1,106 +1,203 @@
-<!-- Animated Header -->
-<h1 align="center">
-  Hi 👋, I'm Shreyash Mane  
-</h1>
+<!-- ========================= -->
+<!--      CYBER HEADER         -->
+<!-- ========================= -->
 
-<h3 align="center">
-🚀 First-Year CSE Student | Web + Mobile App Developer | Firebase Builder
-</h3>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/shreyashmane-dev">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Firebase+Projects+%F0%9F%94%A5;Capacitor+Android+Apps+%F0%9F%93%B1;Always+Learning+%F0%9F%8C%B1;Building+Real-World+Apps+%E2%9C%85" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=SHREYASH%20MANE&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Firebase%20Builder%20%7C%20CSE%20Student&descAlignY=58"/>
+
+</div>
 
 ---
 
-## 💫 About Me
+<div align="center">
 
-🎓 I’m a **first-year Computer Science Engineering student** focused on building real-world applications.  
-💻 I work with **HTML, CSS, JavaScript, Firebase**, and convert projects into Android apps using **Capacitor**.  
-📌 I enjoy building apps like:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=⚡+Building+Real+World+Projects;🔥+Firebase+%2B+Web+Apps+Developer;📱+Capacitor+Android+Apps;🚀+Always+Learning+New+Tech;💻+Turning+Ideas+Into+Reality"/>
 
-- Expense Trackers  
-- Utility Tools  
-- Student Productivity Apps  
-
-🌱 I actively learn by building, documenting, and helping others with deployment & debugging.
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreyash-mane-7675a4385">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anosvoldigoadw1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
+```bash
+> whoami
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,firebase,html,css,vite,npm,git,github,figma,vercel,netlify,canva" />
-</p>
+Name        : Shreyash Mane
+Role        : Computer Science Engineering Student
+Focus       : Full Stack Development
+Learning    : Firebase • Backend • Android Apps
+Location    : India 🇮🇳
+Mindset     : Learn → Build → Improve
+```
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I Do
 
-✨ Building practical projects using:
-
-- Firebase Authentication + Firestore  
-- Responsive UI with modern CSS  
-- Web → Android Conversion using Capacitor  
-- Deployment on Netlify + Vercel  
-
----
-
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyashmane-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashmane-dev&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+- 🌐 Build modern responsive websites
+- 📱 Convert web apps into Android apps using Capacitor
+- 🔥 Work with Firebase Authentication & Firestore
+- ⚡ Deploy apps on Vercel & Netlify
+- 🎨 Design clean UI/UX experiences
+- 🛠️ Build utility & productivity applications
+- 📚 Learn technologies by creating projects
 
 ---
 
-## 🌍 Most Used Languages
+# 🧩 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashmane-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+| 🚀 Project | 💡 Description |
+|---|---|
+| 💰 Aivora Expense Tracker | Smart expense management system |
+| 📚 Smart Library Management | Digital library automation |
+| 🧪 Virtual C Lab | Online environment for C programming |
+| 🔒 SecurPay | Secure digital payment concept |
+| 🛡️ SecureCode | Security-focused coding utilities |
 
-## 🔝 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=shreyashmane-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/shreyashmane-dev/shreyashmane-dev/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+</div>
 
 ---
 
-## 👀 Visitor Count
+# ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shreyashmane-dev&icon=0&color=12"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,firebase,mongodb,git,github,vscode,figma,vercel,netlify,npm,vite,androidstudio,java,c,cpp,linux,bash&perline=7"/>
+
+</div>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to connect and explore my projects.*
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyashmane-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashmane-dev&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashmane-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shreyashmane-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌌 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shreyashmane-dev/shreyashmane-dev/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💻 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashmane-dev&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```yaml
+Learning:
+  - Advanced JavaScript
+  - Firebase Ecosystem
+  - Backend Development
+  - REST APIs
+  - Android App Packaging
+  - Linux & Terminal Tools
+  - Authentication Systems
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shreyash-mane-7675a4385">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shreyashmane649@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreyashmane-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Visitors
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=shreyashmane-dev&icon=5&color=12"/>
+
+</div>
+
+---
+
+# ⚡ Fun Zone
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🧬 Developer Mindset
+
+<div align="center">
+
+```text
+Code.
+Break.
+Debug.
+Learn.
+Repeat.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
