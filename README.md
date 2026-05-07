@@ -160,13 +160,7 @@ Learning:
 
 ---
 
-# 👀 Visitors
 
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=shreyashmane-dev&icon=5&color=12"/>
-
-</div>
 
 ---
 
