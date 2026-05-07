@@ -29,7 +29,7 @@ Name        : Shreyash Mane
 Role        : Computer Science Engineering Student
 Focus       : Full Stack Development
 Learning    : Firebase • Backend • Android Apps
-Location    : India 🇮🇳
+
 Mindset     : Learn → Build → Improve
 ```
 
